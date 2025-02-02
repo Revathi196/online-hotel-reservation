@@ -1,0 +1,14 @@
+Welcome to Grand Plaza!
+
+--- Menu ---
+1. View available rooms
+2. Make a reservation
+3. View reservations
+4. Cancel a reservation
+5. Exit
+Please select an option: 1
+
+Available Rooms:
+single: 10 rooms available
+double: 5 rooms available
+suite: 3 rooms available
