@@ -1,0 +1,39 @@
+Example 1: Viewing Available Rooms
+--- Menu ---
+1. View available rooms
+2. Make a reservation
+3. View reservations
+4. Cancel a reservation
+5. Exit
+Please select an option: 1
+
+Available Rooms:
+single: 10 rooms available
+double: 5 rooms available
+suite: 3 rooms available
+
+Example 2: Making a Reservation
+Please select an option: 2
+Enter your name: John Doe
+Enter room type (single, double, suite): double
+How many double rooms would you like to reserve? 2
+Enter check-in date (YYYY-MM-DD): 2025-02-10
+Enter check-out date (YYYY-MM-DD): 2025-02-15
+
+Reservation successful for John Doe.
+
+Example 3: Viewing Reservations
+Please select an option: 3
+
+Current Reservations:
+Guest: John Doe, Room: double, 2 rooms, Check-in: 2025-02-10, Check-out: 2025-02-15
+
+Example 4: Canceling a Reservation
+Please select an option: 4
+Enter your name to cancel the reservation: John Doe
+Enter room type (single, double, suite): double
+How many double rooms to cancel? 2
+Enter check-in date of the reservation (YYYY-MM-DD): 2025-02-10
+Enter check-out date of the reservation (YYYY-MM-DD): 2025-02-15
+
+Reservation canceled for John Doe.
